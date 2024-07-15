@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
-2. ⭐ Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)<br>
-3. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-4. ⭐ Starred [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot)<br>
-5. ⭐ Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)<br>
+1. ⭐ Starred [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)<br>
+2. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
+3. ⭐ Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)<br>
+4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+5. ⭐ Starred [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 15th, 2024, 2:51:07 AM (GMT)
+Last Updated: Monday, July 15th, 2024, 2:57:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
