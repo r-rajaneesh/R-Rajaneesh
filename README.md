@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ouckah/Summer2025-Internships](https://github.com/Ouckah/Summer2025-Internships)<br>
-2. ⭐ Starred [pytube/pytube](https://github.com/pytube/pytube)<br>
-3. ⭐ Starred [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)<br>
-4. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
-5. ⭐ Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)<br>
+1. ⭐ Starred [pgaijin66/XSS-Payloads](https://github.com/pgaijin66/XSS-Payloads)<br>
+2. ⭐ Starred [mui/material-ui](https://github.com/mui/material-ui)<br>
+3. ⭐ Starred [Ouckah/Summer2025-Internships](https://github.com/Ouckah/Summer2025-Internships)<br>
+4. ⭐ Starred [pytube/pytube](https://github.com/pytube/pytube)<br>
+5. ⭐ Starred [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 18th, 2024, 3:00:17 AM (GMT)
+Last Updated: Friday, July 19th, 2024, 2:29:16 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
