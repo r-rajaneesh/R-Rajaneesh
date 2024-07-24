@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
-2. ⭐ Starred [airbnb/javascript](https://github.com/airbnb/javascript)<br>
-3. ⭐ Starred [google-gemini/cookbook](https://github.com/google-gemini/cookbook)<br>
-4. ⭐ Starred [pgaijin66/XSS-Payloads](https://github.com/pgaijin66/XSS-Payloads)<br>
-5. ⭐ Starred [mui/material-ui](https://github.com/mui/material-ui)<br>
+1. ⭐ Starred [Krombik/keysender](https://github.com/Krombik/keysender)<br>
+2. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>
+3. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
+4. ⭐ Starred [airbnb/javascript](https://github.com/airbnb/javascript)<br>
+5. ⭐ Starred [google-gemini/cookbook](https://github.com/google-gemini/cookbook)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 23rd, 2024, 3:08:03 AM (GMT)
+Last Updated: Wednesday, July 24th, 2024, 2:29:07 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
