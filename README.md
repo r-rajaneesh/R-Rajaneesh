@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)<br>
-2. ⭐ Starred [Krombik/keysender](https://github.com/Krombik/keysender)<br>
-3. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>
-4. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
-5. ⭐ Starred [airbnb/javascript](https://github.com/airbnb/javascript)<br>
+1. ⭐ Starred [vuejs/core](https://github.com/vuejs/core)<br>
+2. ⭐ Starred [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)<br>
+3. ⭐ Starred [Krombik/keysender](https://github.com/Krombik/keysender)<br>
+4. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>
+5. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 2nd, 2024, 3:10:11 AM (GMT)
+Last Updated: Saturday, August 3rd, 2024, 2:28:11 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
