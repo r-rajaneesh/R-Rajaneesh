@@ -1,6 +1,6 @@
 name: Update README
 
-on:  
+on:
   schedule:
     # Runs every first and 2 hrs.
     - cron: '* 2 * * *'
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Add activity to readme
+      - name: Recent GitHub Activity - Profile Readme
         uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
