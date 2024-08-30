@@ -1,0 +1,32 @@
+{
+  "name": "r-rajaneesh",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Rajaneesh R",
+    "email": "rajaneeshr2006@gmail.com",
+    "url": "https://r-rajaneesh.vercel.app"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.3",
+    "@astrojs/node": "^8.3.3",
+    "@astrojs/upgrade": "^0.3.3",
+    "@astrojs/vercel": "^7.8.0",
+    "astro": "^4.14.6",
+    "jquery": "^3.7.1",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.30",
+    "prettier": "^3.3.3",
+    "prettier-plugin-astro": "^0.14.1"
+  }
+}

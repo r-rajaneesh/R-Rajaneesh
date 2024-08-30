@@ -1,0 +1,59 @@
+@import "./_variables.css";
+@font-face {
+  font-family: "TitilliumWeb-Regular";
+  src: url("/fonts/TitilliumWeb-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "TitilliumWeb-Bold";
+  src: url("/fonts/TitilliumWeb-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "TitilliumWeb-Black";
+  src: url("/fonts/TitilliumWeb-Black.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+body {
+  display: flex;
+  /* width: 100vw;
+  height: 100vh; */
+  max-width: 100%;
+  max-height: 100%;
+  overflow-x: hidden;
+  color: var(--text-color);
+  background: var(--background-color);
+  font-family: system-ui, sans-serif;
+  &::-webkit-scrollbar {
+    width: 0.4rem;
+  }
+
+  &::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  }
+
+  &::-webkit-scrollbar-thumb {
+    box-shadow: inset 0 0 6px var(--text-color);
+    border-radius: 1rem;
+  }
+}
+code {
+  font-family:
+    Menlo,
+    Monaco,
+    Lucida Console,
+    Liberation Mono,
+    DejaVu Sans Mono,
+    Bitstream Vera Sans Mono,
+    Courier New,
+    monospace;
+}
