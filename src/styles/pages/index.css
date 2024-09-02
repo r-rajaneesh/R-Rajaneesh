@@ -74,6 +74,8 @@
               visibility: hidden;
               font-weight: 600;
               font-size: 0.8rem;
+              padding: 0.2rem;
+              border-radius: 0.4rem;
               align-self: center;
               justify-content: center;
               background: var(--background-color);
@@ -116,6 +118,8 @@
               visibility: hidden;
               font-weight: 600;
               font-size: 0.8rem;
+              padding: 0.2rem;
+              border-radius: 0.4rem;
               align-self: center;
               justify-content: center;
               background: var(--background-color);
@@ -134,12 +138,17 @@
 @keyframes pfpfloat {
   0% {
     transform: translateY(0rem);
+    box-shadow: 0.4rem 1rem var(--text-shadow);
   }
+
   50% {
     transform: translateY(1rem);
+    box-shadow: 0.8rem 1rem var(--text-shadow);
   }
+
   100% {
     transform: translateY(0rem);
+    box-shadow: 0.4rem 1rem var(--text-shadow);
   }
 }
 @media only screen and (max-width: 786px) {
@@ -195,6 +204,7 @@
             flex-wrap: wrap;
             gap: 4rem;
             height: 100%;
+            margin-left: 2rem;
             .language,
             .framework {
               display: flex;
@@ -206,6 +216,8 @@
                 visibility: hidden;
                 font-weight: 600;
                 font-size: 0.8rem;
+                padding: 0.2rem;
+                border-radius: 0.4rem;
                 align-self: center;
                 justify-content: center;
                 background: var(--background-color);
@@ -239,6 +251,8 @@
                 visibility: hidden;
                 font-weight: 600;
                 font-size: 0.8rem;
+                padding: 0.2rem;
+                border-radius: 0.4rem;
                 align-self: center;
                 justify-content: center;
                 background: var(--background-color);

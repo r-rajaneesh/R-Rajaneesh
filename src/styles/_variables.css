@@ -11,8 +11,8 @@
   --notification-warning: #baba00;
   --notification-error: #ff9695;
   --floaties-color: #00000033;
-  --radial-gradient:radial-gradient(#a9a9a9a9, #d0d0d070);
-  --text-shadow:#00000050;
+  --radial-gradient: #7e7e7ea9;
+  --text-shadow: #00000050;
 }
 [data-theme="dark"] {
   /* Dark Theme */
@@ -27,6 +27,6 @@
   --notification-warning: #ffd600;
   --notification-error: #d32f2f;
   --floaties-color: #ffffff33;
-  --radial-gradient:radial-gradient(#ffffff50, #ffffff70);
-  --text-shadow:#ffffff50;
+  --radial-gradient: #a9a9a9a9;
+  --text-shadow: #ffffff50;
 }
